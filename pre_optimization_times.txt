@@ -1,0 +1,7 @@
+Execution Times (in seconds):
+Students in EE244: 1.92 seconds
+Average students per instructor: 0.97 seconds
+Courses in department CS: 0.24 seconds
+Students per department: 0.14 seconds
+Instructors teaching all CSE core courses: 0.64 seconds
+Top 10 courses by enrollment: 0.20 seconds
